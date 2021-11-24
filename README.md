@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uzcoding
-- 👀 I’m interested in Mobile
+- 👀 I’m interested in Mobile Developement
 - 🌱 I’m currently learning Flutter & Swift
 - 📫 How to reach me dev.uzcoding@gmail.com
 
